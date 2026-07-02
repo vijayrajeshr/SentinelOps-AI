@@ -5,6 +5,10 @@
 
 ---
 
+<img width="1407" height="1079" alt="Screenshot 2026-07-02 142659" src="https://github.com/user-attachments/assets/ac63c491-5f0d-49a4-b3ee-6d19fcae1d18" />
+
+---
+
 ## 🚀 What It Does
 
 SentinelOps-AI is a production-grade autonomous operations agent built on AWS. It continuously ingests logs from your infrastructure, uses an AI agent to understand what's going wrong, and triggers self-healing actions — all without human intervention.
